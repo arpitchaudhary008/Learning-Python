@@ -20,3 +20,19 @@ f=238239874
 n=327472307028
 r=f*n
 print(r)
+v=10
+x=100
+t=v/x
+print(t)
+x,y,z=  'apple','banana','cherry'
+print(x,y,z   , sep='---')
+#variable name which has meaning/purpose
+ #operation
+run=22
+time=23
+print(run%time)
+x=10
+x=x+20
+print(x)
+
+
