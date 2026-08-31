@@ -34,5 +34,17 @@ print(run%time)
 x=10
 x=x+20
 print(x)
+#one way selection
+#true or false
+order=560
+minimumorder=500
+delivery=50
+if order > minimumorder:
+     delivery=0
+
+totalprice=order+delivery
+print(totalprice)
+
+
 
 
