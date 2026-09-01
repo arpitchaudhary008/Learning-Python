@@ -56,5 +56,14 @@ if number>45:
 else:
     print('less than 45')
 
-
+i=0
+while i<=6:
+    print(i)
+    i+=1
+l1=[21,12,32,42,2,1]
+for each_number in l1:
+    print(each_number * 2)
+text=('arpit chaudhary')
+for each_letter in text:
+    print(each_letter * 2)
 
