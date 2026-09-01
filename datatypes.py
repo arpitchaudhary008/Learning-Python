@@ -50,5 +50,11 @@ a=40
 if a>30:
     print('greater than a')
 
+number=30
+if number>45:
+    print('less than 45')
+else:
+    print('less than 45')
+
 
 
