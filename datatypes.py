@@ -66,4 +66,11 @@ for each_number in l1:
 text=('arpit chaudhary')
 for each_letter in text:
     print(each_letter * 2)
+for x in range (10):
+    print(x)
+for x in range ( 2 , 10 , 4):
+    print(x)
 
+
+print('hello')
+print(type('hello'))
