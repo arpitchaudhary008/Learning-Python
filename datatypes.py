@@ -46,5 +46,9 @@ totalprice=order+delivery
 print(totalprice)
 
 
+a=40
+if a>30:
+    print('greater than a')
+
 
 
