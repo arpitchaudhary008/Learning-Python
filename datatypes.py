@@ -74,3 +74,19 @@ for x in range ( 2 , 10 , 4):
 
 print('hello')
 print(type('hello'))
+
+
+
+
+def greeting():
+    print('hello world')
+
+greeting()
+
+x=(type('hello'))
+print(x)
+
+def greeting():
+     return 'hello world'
+
+print(greeting())
