@@ -88,5 +88,47 @@ print(x)
 
 def greeting():
      return 'hello world'
-
 print(greeting())
+
+
+def greeting():
+       a = 1
+       b = 2
+       return[a,b]
+
+
+result = greeting()
+print(result)
+
+print(type('hello'))
+
+x=(type('hello'))
+print(x)
+
+x = len('arpit chaudhary')
+print(x)
+
+def f1(x,y):
+    return x*y
+print(f1(10,38))
+
+def my_function(my_list):
+
+    my_list.append(7)
+
+l1=[2,1,4,9,6,8,]
+print(l1)
+
+my_function(l1)
+print(l1)
+
+def my_function(text):
+    text += 'arpit chaudhary'
+
+t1='hello world'
+print(t1)
+
+my_function (t1)
+print(t1)
+
+
