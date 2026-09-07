@@ -133,3 +133,18 @@ print(t1)
 
 
 
+def my_function(name):
+    print(name)
+my_function('arpit chaudhary')
+
+def my_function(name):
+    print('hey'+name)
+my_function('hello world')
+
+
+def my_function(*name):
+   for each_name in name:
+    print('hello' , each_name)
+
+my_function('a' , 'b' , 'c' , 'd' )
+my_function('a' , 'b' , 'c' , 'd' , 'e' , 'f')
