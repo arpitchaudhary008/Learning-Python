@@ -148,3 +148,14 @@ def my_function(*name):
 
 my_function('a' , 'b' , 'c' , 'd' )
 my_function('a' , 'b' , 'c' , 'd' , 'e' , 'f')
+
+def my_function(x,y):
+    return x*y
+print(my_function(2,3))
+
+
+def f1(x,y)
+    return x*y
+
+
+ print(f1(4,3))
