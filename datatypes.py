@@ -149,13 +149,22 @@ def my_function(*name):
 my_function('a' , 'b' , 'c' , 'd' )
 my_function('a' , 'b' , 'c' , 'd' , 'e' , 'f')
 
-def my_function(x,y):
-    return x*y
-print(my_function(2,3))
+print("arpit")
+print(type(-5.8))
+print("paper was a bit hard , as i have not studies , thats my fault ")
+a=49
+b=84
+print(a*b)
+n = 59
+a=n
+if a < 50:
+    print("a is insufficient")
+else:
+     print("sufficient")
+
+ def my_fun(x,y):
+     return x * y
+
+ print(my_fun(20,5))
 
 
-def f1(x,y)
-    return x*y
-
-
- print(f1(4,3))
